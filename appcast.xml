@@ -6,5 +6,17 @@
     <description>Actualizaciones de GitSyncer para macOS</description>
     <language>es</language>
     <!-- items -->
+    <item>
+      <title>GitSyncer 1.0.0</title>
+      <pubDate>Tue, 27 Oct 2026 03:22:36 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/gitsyncer-update/releases/download/v1.0.0/GitSyncer-1.0.0.dmg"
+        sparkle:edSignature="LjasMTRlOZc3CVU0PDRFc6h4DXyf/kG9q+su/5FAs2rmbRoiHdsitiuXfW9fZO4VuBgVUJZh47H+5ErkRMmvDA=="
+        length="2830906"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
